@@ -35,9 +35,9 @@ Flask API, varsayılan olarak http://localhost:5000 adresinde çalışacaktır. 
 
 5. Katkı Sağlama
 Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edin:
-Fork yapın
-Yeni bir branch oluşturun (git checkout -b feature-xyz)
-Değişikliklerinizi yapın
-Değişiklikleri commit edin (git commit -am 'Add new feature')
-Branch'ınızı push edin (git push origin feature-xyz)
-Pull request oluşturun
+-Fork yapın
+-Yeni bir branch oluşturun (git checkout -b feature-xyz)
+-Değişikliklerinizi yapın
+-Değişiklikleri commit edin (git commit -am 'Add new feature')
+-Branch'ınızı push edin (git push origin feature-xyz)
+-Pull request oluşturun
